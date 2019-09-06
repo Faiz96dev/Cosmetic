@@ -898,6 +898,9 @@ body.lb-disable-scrolling {
   opacity: 1;
 }
 
+.social{
+	height: 50px;
+}
 
 
 /* RESPONSIVE */
