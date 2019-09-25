@@ -969,3 +969,20 @@ body.lb-disable-scrolling {
 		float: none;
 	}
 }
+
+.contact{
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center
+	
+}
+
+.social{
+	width: 50px;
+}
+
+.social_inst{
+	background-color: #fff;
+	width:40px
+}
